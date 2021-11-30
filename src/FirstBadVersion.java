@@ -12,7 +12,8 @@ public class FirstBadVersion {
 
         if (isBadVersion((n+f)/2)){isFirst(n, (n+f)/2);}
         else{}
-
+        System.out.println("Yo Github so dope");
+        System.out.println("?¿ webo");
         return n;
     }
 
